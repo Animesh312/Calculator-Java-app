@@ -1,6 +1,6 @@
 # Calculator
 ```kotlin
-Author: Nguyen Cong Dung - 17103487 - PM22.05
+Author:- Animesh Wankhede
 ```
 
 ## Features
